@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA7914,50:FE305E,100:137CF1&animation=twinkling&height=150)
 
 <!--타이틀-->
-<h2 align="center">✨ 캬루룽 ✨</h2>
+<h1 align="center">✨ 캬루룽 ✨</h1>
 <div align="center">
   <img src="https://gbf.wiki/images/thumb/9/9b/Npc_zoom_3040216000_01.png/720px-Npc_zoom_3040216000_01.png?20190529082608" />
 </div>
