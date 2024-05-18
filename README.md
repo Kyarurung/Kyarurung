@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FF00FF&animation=twinkling&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA7914,100:FE305E&animation=twinkling&height=200)
 
 <h1>
   <!--타이틀-->
