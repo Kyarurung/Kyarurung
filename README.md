@@ -22,24 +22,6 @@
 
 <h1></h1>
 
-<!--경고-->
-> [!NOTE]
-> 정보
-
-> [!TIP]
-> 팁
-
-> [!IMPORTANT]
-> 중요
-
-> [!WARNING]
-> 경고
-
-> [!CAUTION]
-> 주의
-
-<h1></h1>
-
 <!--깃허브 사용 통계-->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
