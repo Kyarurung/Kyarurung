@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA7914,50:FE305E,100:137CF1&animation=twinkling&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA7914,50:FE305E,100:137CF1&animation=twinkling&height=100)
 
 <h2 align="center">✨ 캬루룽 ✨</h2>
 <!--타이틀-->
@@ -8,7 +8,7 @@
 
 <h1>
   <!--개발자 도구 목록-->
-  <h3 align="center">🛠 개발자 도구 🛠</h3>
+  <h3 align="center">🛠 개발 도구 목록 🛠</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
