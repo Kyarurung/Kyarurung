@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FF00FF&animation=twinkling&height=100)
 
+<h1></h1>
+
 <!--타이틀-->
 <h3 align="center">✨ 캬루룽 ✨</h3>
 <div align="center">
   <img src="https://gbf.wiki/images/thumb/9/9b/Npc_zoom_3040216000_01.png/720px-Npc_zoom_3040216000_01.png?20190529082608" />
 </div>
+
+<h1></h1>
 
 <!--개발자 도구 목록-->
 <h3 align="center">🛠 개발자 도구 🛠</h3>
@@ -18,7 +22,25 @@
   <img src="https://img.shields.io/badge/Intellij%20IDEA-1A7CEB.svg?style=for-the-badge&logo=Intellij%20IDEA&logoColor=000000" />&nbsp
 </div>
 
-<br>
+<h1></h1>
+
+<!--경고-->
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+<h1></h1>
 
 <!--깃허브 사용 통계-->
 <div align="center">
