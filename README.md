@@ -12,11 +12,12 @@
 <h2 align="center">🛠 개발 도구 목록 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Intellij%20IDEA-1A7CEB.svg?style=for-the-badge&logo=Intellij%20IDEA&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/Java-FFFFFF.svg?style=for-the-badge&logo=oracle&logoColor=FF5F28" />&nbsp
 </div>
 
 <br>
