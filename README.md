@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b100cd:EEFF00,100:a82da8&animation=twinkling&height=200)
 
 <!--타이틀 부분-->
 <h3 align="center">✨ 캬루룽 ✨</h3>
