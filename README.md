@@ -28,7 +28,4 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyarurung&layout=compact&langs_count=8&show_icons=true&theme=dark#gh-dark-mode-only(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)", src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyarurung&layout=compact&langs_count=8&show_icons=true&theme=default#gh-light-mode-only(https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)" />
   </a>
-  <a>
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-  </a>
 </div>
